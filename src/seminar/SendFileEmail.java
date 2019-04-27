@@ -40,7 +40,7 @@ public class SendFileEmail extends Seminar{
       static Properties props = System.getProperties();
       static String SSL_FACTORY = "javax.net.ssl.SSLSocketFactory";
       static String username = "nz.kylelothian@gmail.com";
-      static String password = "PhoenixCyclops@1988";
+      static String password = "";
        
       static EncryptedFileName eFileName = new EncryptedFileName(); //instances the name for the file to be encrypted and decrypted
       
